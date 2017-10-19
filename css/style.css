@@ -1,0 +1,176 @@
+
+html,
+body,
+.view {
+    height: 100%;
+}
+
+.topbar {
+    background: transparent;
+    color: #D14233;
+    padding: 0;
+    min-height: 0;
+    height: 110px;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.156863) 0px 2px 5px 0px, rgba(0, 0, 0, 0.117647) 0px 2px 10px 0px;
+    z-index: 1100;
+}
+
+.kl-nav {
+    padding-top: 38px;
+}
+
+a:focus, a:hover {
+    color: #D14233;
+    text-decoration: underline;
+}
+
+.navbar-nav > li > a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.navbar-nav .active a {
+    border: 2px solid #D14233;
+
+}
+
+.nav > li > a {
+    color: #B32213;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid #D14233;
+}
+
+.kl-content .row .text {
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 40px;
+}
+
+.kl-content .row h1 {
+    font-size: 80px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    padding-bottom: 8px;
+}
+
+.kl-content .row p {
+    font-size: 16px;
+    font-family: Raleway;
+}
+
+.kl-content .row h3, .kl-content .row h4 {
+    font-weight: 600;
+    font-family: Raleway;
+    padding-bottom: 5px;
+}
+
+.buttons {
+    padding-top: 10px;
+}
+
+.text {
+    padding-top: 201px;
+    text-align: center;
+}
+
+.big-letter {
+    height: 100%;
+    width: 100%;
+    background-color: #873d3db3;
+}
+
+.text h1 {
+    color: whitesmoke;
+}
+
+.text h3 {
+    color: whitesmoke;
+}
+
+.social ul {
+    padding-left: 55%;
+}
+
+.social ul > li {
+    float: left;
+    padding: 10px 15px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.social ul > li > a {
+    color: #5bc0de;
+
+}
+
+.mobi-footer {
+    background-color: #451508e6;
+    margin-top: 
+}
+
+.foot-txt ul > li {
+    padding: 10px 10px;
+    padding-top: 15px;
+    font-size: 15px;
+    list-style: none;
+    color: #fff;
+}
+
+.social ul > li {
+    list-style: none;
+}
+
+/* Startups Page */
+
+.navbar {
+    background-color: #451508e6;
+    height: 100px;
+}
+
+.content h3 {
+    margin-top: 10px;
+}
+
+.log-text h3 {
+    margin-top: 50px;
+}
+
+.footer {
+    background-color: #441505;
+}
+
+
+
+/* Register */
+
+.page h3 {
+    padding-top: 120px;
+}
+
+.footer {
+    margin-top: 10rem;
+}
+
+/*login */
+.padding {
+    margin-top: 18px;
+}
+
+.space h3 {
+    padding-top: 120px;
+}
+
+.footer {
+    margin-top: 20rem;
+}
