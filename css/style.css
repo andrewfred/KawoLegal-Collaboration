@@ -1,13 +1,13 @@
-
 html,
-body,
-.view {
+body{
     height: 100%;
+    width: 100%;
 }
 
 
+
 .kl-nav {
-    padding-top: 38px;
+    padding-top: 52px;
 }
 
 a:focus, a:hover {
@@ -109,7 +109,6 @@ a:focus, a:hover {
 
 .social ul > li > a {
     color: #5bc0de;
-
 }
 
 
@@ -127,12 +126,13 @@ a:focus, a:hover {
 }
 
 .container-flex {
-    padding-top: 100px;
+    padding-top: px;
 }
 
 .view{
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 
 
@@ -178,5 +178,5 @@ a:focus, a:hover {
 }
 
 .footer {
-    margin-top: 20rem;
+    margin-top: 0em;
 }
